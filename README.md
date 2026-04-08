@@ -46,6 +46,12 @@ To what extent do financial characteristics such as loan amount, annual income, 
 - F1-score: 0.362
 - ROC-AUC: 0.737
 
+## Selected Visuals
+
+![Capstone report visual 1](assets/report-extracts/report_image_01.png)
+
+![Capstone report visual 2](assets/report-extracts/report_image_02.png)
+
 ## Key Takeaways
 - Hyperparameter tuning improved recall from 0.148 to 0.265, increasing the model's ability to identify true defaulters.
 - The final ROC-AUC of 0.737 shows meaningful predictive power above random guessing.
