@@ -3,6 +3,9 @@
 ## Overview
 This project predicts borrower loan default status using a Random Forest classifier trained on 148,670 historical loan records. The goal is to support credit risk review by identifying borrowers with elevated default risk before approval.
 
+## Coursework Context
+This repository packages work originally completed as part of Western Governors University's (WGU) M.S. in Data Analytics program and reorganizes it into a public portfolio format. Screenshots extracted from the original written submission are preserved in `assets/report-extracts/`.
+
 ## Business Question
 To what extent do financial characteristics such as loan amount, annual income, credit score, and debt-to-income ratio affect a borrower's likelihood of default?
 
