@@ -64,7 +64,3 @@ To what extent do financial characteristics such as loan amount, annual income, 
 
 ## Note
 The dataset is included so the notebook runs with a repo-relative path.
-
----
-
-*\* I used Claude (Anthropic) to help organize and stage this coursework into a GitHub portfolio repository. The analysis, code, and results are entirely my own.*
